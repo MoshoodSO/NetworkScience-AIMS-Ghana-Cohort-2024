@@ -79,3 +79,10 @@ The analysis is guided by the following key questions:
 ## Library Needed 
 - **Community** - `pip install python-louvain`
 - **Networkx** - `pip install networkx`
+
+
+## Contact
+
+- Author: Shoyombo Moshood Olanrewaju
+- Connect: [Shoyombo Moshood](https://www.linkedin.com/in/shoyombo-moshood-582003126)
+- Portfolio: [Shoyombo Moshood](https://moshoodso.vercel.app/)
