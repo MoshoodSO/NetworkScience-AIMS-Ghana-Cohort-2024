@@ -85,4 +85,4 @@ The analysis is guided by the following key questions:
 
 - Author: Shoyombo Moshood Olanrewaju
 - Connect: [Shoyombo Moshood](https://www.linkedin.com/in/shoyombo-moshood-582003126)
-- Portfolio: [Shoyombo Moshood](https://moshoodso.vercel.app/)
+- Portfolio: [MoshoodSO](https://moshoodso.vercel.app/)
