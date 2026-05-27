@@ -14,7 +14,7 @@ This repository presents a detailed analysis of the social interaction network w
   - `Background` – Academic background (e.g., Mathematics, Computer Science, Statistics, etc)
   - `Friend1`, `Friend2`, `Friend3` – Names of three students most frequently sit with at the cafeteria during lunch break.
 
-Each student is represented as a **node**, and their three listed friends are connected to them as **edges**, forming a directed social interaction graph.
+Each student is represented as a **node**, and their three listed friends are connected to them as **edges**, forming a undirected social interaction graph.
 
 ---
 
