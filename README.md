@@ -17,6 +17,11 @@ This repository presents a detailed analysis of the social interaction network w
 Each student is represented as a **node**, and their three listed friends are connected to them as **edges**, forming a undirected social interaction graph.
 
 ---
+# Graphical display of interaction
+
+[display](https://github.com/MoshoodSO/NetworkScience-AIMS-Ghana-Cohort-2024/blob/main/images/graph_visualization_by_country.png)
+
+---
 
 ## 🎯 Project Objectives
 
