@@ -19,7 +19,7 @@ Each student is represented as a **node**, and their three listed friends are co
 ---
 # Graphical display of interaction
 
-[display](https://github.com/MoshoodSO/NetworkScience-AIMS-Ghana-Cohort-2024/blob/main/images/graph_visualization_by_country.png)
+![display](https://github.com/MoshoodSO/NetworkScience-AIMS-Ghana-Cohort-2024/blob/main/images/graph_visualization_by_country.png)
 
 ---
 
